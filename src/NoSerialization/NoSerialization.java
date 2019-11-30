@@ -13,7 +13,6 @@ public class NoSerialization {
         student.load("E:\\student.txt");
 
         System.out.println(student);
-
     }
 }
 

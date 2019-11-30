@@ -13,6 +13,7 @@ public class Serialization {
         Student student1 = student.load("E:\\student.txt");
 
         System.out.println(student1);
+
         System.out.println("Hirai Momo");
     }
 }

@@ -204,6 +204,7 @@ public class ReadLocalFile {
             is.close();
         }
 
+
         return imageData;
     }
 

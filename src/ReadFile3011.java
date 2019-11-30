@@ -8,6 +8,7 @@ public class ReadFile3011 {
 
     public static void main(String[] args) throws IOException {
 
+
 //        String str = read("E:\\class\\javanangcao\\momo.txt");
 //        System.out.println(removeAccent(str));
 //        String str1 = readUTF8("E:\\class\\javanangcao\\momo.txt");
